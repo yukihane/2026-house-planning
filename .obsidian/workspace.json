@@ -181,8 +181,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "4ce801264c8d742b",
+  "active": "33b3757e5e6e9c95",
   "lastOpenFiles": [
+    "mise.toml",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_領域/02_税制優遇・補助金/主要な税制優遇と補助金制度.md",
+                "file": "GEMINI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "主要な税制優遇と補助金制度"
+              "title": "GEMINI"
             }
           }
         ]
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_領域/02_税制優遇・補助金/主要な税制優遇と補助金制度.md",
+                "file": "GEMINI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 主要な税制優遇と補助金制度"
+              "title": "Outline of GEMINI"
             }
           }
         ],
@@ -186,14 +186,14 @@
   },
   "active": "ca170d9424e52385",
   "lastOpenFiles": [
-    "20_領域/01_震災対応・保証/熊本地震におけるメーカー別対応比較.md",
     "20_領域/02_税制優遇・補助金/主要な税制優遇と補助金制度.md",
+    "GEMINI.md",
+    "20_領域/01_震災対応・保証/熊本地震におけるメーカー別対応比較.md",
     "20_領域/02_税制優遇・補助金",
     "20_領域/01_震災対応・保証/大和ハウスの耐震性に関する考察.md",
     "大和ハウスの耐震性に関する考察｜詳細はこちら.md",
     "10_プロジェクト/01_家づくりスケジュール.md",
     "20_領域/01_震災対応・保証",
-    "GEMINI.md",
     "private-notes/10_プロジェクト/01_土地/01_土地関連資料リンク.md",
     "01_デイリーノート/2026-03-16.md",
     "private-notes/10_プロジェクト/02_建築会社相談状況//2026-03-15 -.md",

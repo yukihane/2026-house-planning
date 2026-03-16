@@ -185,6 +185,7 @@
   },
   "active": "ca170d9424e52385",
   "lastOpenFiles": [
+    "20_領域/02_税制優遇・補助金/地域型住宅グリーン化事業の評価と選び方.md",
     "20_領域/01_震災対応・保証/熊本地震におけるメーカー別対応比較.md",
     "20_領域/99_熊本地震調査/NotebookLM.md",
     "20_領域/99_熊本地震調査",
@@ -220,7 +221,6 @@
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md"
+    "copilot/copilot-custom-prompts/Generate glossary.md"
   ]
 }

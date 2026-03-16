@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_プロジェクト/01_家づくりスケジュール.md",
+                "file": "20_領域/01_震災対応・保証/熊本地震におけるメーカー別対応比較.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_家づくりスケジュール"
+              "title": "熊本地震におけるメーカー別対応比較"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_プロジェクト/01_家づくりスケジュール.md",
+                "file": "20_領域/01_震災対応・保証/熊本地震におけるメーカー別対応比較.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01_家づくりスケジュール"
+              "title": "Outline of 熊本地震におけるメーカー別対応比較"
             }
           }
         ],
@@ -182,12 +182,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ce801264c8d742b",
+  "active": "ca170d9424e52385",
   "lastOpenFiles": [
+    "10_プロジェクト/01_家づくりスケジュール.md",
     "20_領域/01_震災対応・保証/熊本地震におけるメーカー別対応比較.md",
     "20_領域/01_震災対応・保証",
     "GEMINI.md",
-    "10_プロジェクト/01_家づくりスケジュール.md",
     "private-notes/10_プロジェクト/01_土地/01_土地関連資料リンク.md",
     "01_デイリーノート/2026-03-16.md",
     "private-notes/10_プロジェクト/02_建築会社相談状況//2026-03-15 -.md",

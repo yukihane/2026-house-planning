@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GEMINI.md",
+                "file": "10_プロジェクト/01_家づくりスケジュール.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GEMINI"
+              "title": "01_家づくりスケジュール"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GEMINI.md",
+                "file": "10_プロジェクト/01_家づくりスケジュール.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GEMINI"
+              "title": "Outline of 01_家づくりスケジュール"
             }
           }
         ],
@@ -184,6 +184,8 @@
   },
   "active": "ca170d9424e52385",
   "lastOpenFiles": [
+    "GEMINI.md",
+    "10_プロジェクト/01_家づくりスケジュール.md",
     "private-notes/10_プロジェクト/01_土地/01_土地関連資料リンク.md",
     "01_デイリーノート/2026-03-16.md",
     "private-notes/10_プロジェクト/02_建築会社相談状況//2026-03-15 -.md",
@@ -197,7 +199,6 @@
     "10_プロジェクト/01_建築会社相談状況//2026-03-15 -.md",
     "10_プロジェクト/01_建築会社相談状況/パナソニックホームズ/2026-03-15 パナソニックホームズ-.md",
     "10_プロジェクト/01_建築会社相談状況/パナソニックホームズ/2026-03-15 パナソニックホームズ-.md",
-    "GEMINI.md",
     "10_プロジェクト/01_建築会社相談状況/パナソニックホームズ",
     "10_プロジェクト/01_建築会社相談状況/",
     "10_プロジェクト/01_建築会社相談状況",
@@ -219,7 +220,6 @@
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md"
+    "copilot/copilot-custom-prompts/Translate to Chinese.md"
   ]
 }

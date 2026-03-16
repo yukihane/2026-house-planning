@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_領域/01_震災対応・保証/大和ハウスの耐震性に関する考察.md",
+                "file": "20_領域/99_熊本地震調査/NotebookLM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "大和ハウスの耐震性に関する考察"
+              "title": "NotebookLM"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_領域/01_震災対応・保証/大和ハウスの耐震性に関する考察.md",
+                "file": "20_領域/99_熊本地震調査/NotebookLM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 大和ハウスの耐震性に関する考察"
+              "title": "Outline of NotebookLM"
             }
           }
         ],
@@ -186,13 +186,15 @@
   "active": "ca170d9424e52385",
   "lastOpenFiles": [
     "20_領域/01_震災対応・保証/熊本地震におけるメーカー別対応比較.md",
+    "20_領域/99_熊本地震調査/NotebookLM.md",
+    "20_領域/99_熊本地震調査",
+    "20_領域/01_震災対応・保証/大和ハウスの耐震性に関する考察.md",
     "20_領域/02_税制優遇・補助金/長期優良・低炭素住宅の各社対応.md",
     "20_領域/02_税制優遇・補助金/主要な税制優遇と補助金制度.md",
     "perplexity/2026-03-17-長期優良住宅・低炭素住宅の認定.md",
     "perplexity",
     "GEMINI.md",
     "20_領域/02_税制優遇・補助金",
-    "20_領域/01_震災対応・保証/大和ハウスの耐震性に関する考察.md",
     "大和ハウスの耐震性に関する考察｜詳細はこちら.md",
     "10_プロジェクト/01_家づくりスケジュール.md",
     "20_領域/01_震災対応・保証",
@@ -211,7 +213,6 @@
     "10_プロジェクト/01_建築会社相談状況/パナソニックホームズ/2026-03-15 パナソニックホームズ-.md",
     "10_プロジェクト/01_建築会社相談状況/パナソニックホームズ",
     "10_プロジェクト/01_建築会社相談状況/",
-    "10_プロジェクト/01_建築会社相談状況",
     "99_テンプレート/デイリーノート.md",
     "Untitled.canvas",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
@@ -220,7 +221,6 @@
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md"
+    "copilot/copilot-custom-prompts/Generate table of contents.md"
   ]
 }

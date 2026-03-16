@@ -184,6 +184,7 @@
   },
   "active": "ca170d9424e52385",
   "lastOpenFiles": [
+    "20_領域/01_震災対応・保証",
     "GEMINI.md",
     "10_プロジェクト/01_家づくりスケジュール.md",
     "private-notes/10_プロジェクト/01_土地/01_土地関連資料リンク.md",
@@ -219,7 +220,6 @@
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md"
+    "copilot/copilot-custom-prompts/Summarize.md"
   ]
 }

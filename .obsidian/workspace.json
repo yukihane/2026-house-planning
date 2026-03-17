@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_領域/04_住宅ローン/フラット35_SBIネット証券.md",
+                "file": "20_領域/04_住宅ローン/01_住宅ローンの検討プロセスと基礎知識.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "フラット35_SBIネット証券"
+              "title": "01_住宅ローンの検討プロセスと基礎知識"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_領域/04_住宅ローン/フラット35_SBIネット証券.md",
+                "file": "20_領域/04_住宅ローン/01_住宅ローンの検討プロセスと基礎知識.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of フラット35_SBIネット証券"
+              "title": "Outline of 01_住宅ローンの検討プロセスと基礎知識"
             }
           }
         ],
@@ -185,10 +185,11 @@
   },
   "active": "ca170d9424e52385",
   "lastOpenFiles": [
-    "01_デイリーノート/2026-03-17.md",
-    "20_領域/04_住宅ローン/フラット35_SBIネット証券.md",
-    "20_領域/04_住宅ローン/01_住宅ローンの検討プロセスと基礎知識.md",
+    "20_領域/04_住宅ローン/02_住宅ローンの事前審査を受け付けてくれそうなところ.md",
     "20_領域/04_住宅ローン/00_住宅ローン検討の基本方針.md",
+    "20_領域/04_住宅ローン/フラット35_SBIネット証券.md",
+    "01_デイリーノート/2026-03-17.md",
+    "20_領域/04_住宅ローン/01_住宅ローンの検討プロセスと基礎知識.md",
     "20_領域/04_住宅ローン",
     "20_領域/03_資金計画・諸費用",
     "01_デイリーノート/2026-03-16.md",
@@ -220,7 +221,6 @@
     "10_プロジェクト/01_建築会社相談状況/パナソニックホームズ/2026-03-15 パナソニックホームズ-.md",
     "99_テンプレート/デイリーノート.md",
     "Untitled.canvas",
-    "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md"
+    "copilot/copilot-custom-prompts/Clip Web Page.md"
   ]
 }

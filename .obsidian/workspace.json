@@ -185,6 +185,8 @@
   },
   "active": "ca170d9424e52385",
   "lastOpenFiles": [
+    "20_領域/04_住宅ローン",
+    "20_領域/03_資金計画・諸費用",
     "01_デイリーノート/2026-03-16.md",
     "01_デイリーノート/2026-03-17.md",
     "20_領域/99_熊本地震調査/NotebookLM.md",
@@ -214,13 +216,11 @@
     "10_プロジェクト/01_建築会社相談状況/パナソニックホームズ/2026-03-15 パナソニックホームズ-.md",
     "10_プロジェクト/01_建築会社相談状況/パナソニックホームズ/2026-03-15 パナソニックホームズ-.md",
     "10_プロジェクト/01_建築会社相談状況/パナソニックホームズ",
-    "10_プロジェクト/01_建築会社相談状況/",
     "99_テンプレート/デイリーノート.md",
     "Untitled.canvas",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md"
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md"
   ]
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_デイリーノート/2026-03-17.md",
+                "file": "20_領域/04_住宅ローン/フラット35_SBIネット証券.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-17"
+              "title": "フラット35_SBIネット証券"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_デイリーノート/2026-03-17.md",
+                "file": "20_領域/04_住宅ローン/フラット35_SBIネット証券.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-03-17"
+              "title": "Outline of フラット35_SBIネット証券"
             }
           }
         ],
@@ -185,8 +185,9 @@
   },
   "active": "ca170d9424e52385",
   "lastOpenFiles": [
-    "20_領域/04_住宅ローン/01_住宅ローンの検討プロセスと基礎知識.md",
     "01_デイリーノート/2026-03-17.md",
+    "20_領域/04_住宅ローン/フラット35_SBIネット証券.md",
+    "20_領域/04_住宅ローン/01_住宅ローンの検討プロセスと基礎知識.md",
     "20_領域/04_住宅ローン/00_住宅ローン検討の基本方針.md",
     "20_領域/04_住宅ローン",
     "20_領域/03_資金計画・諸費用",
@@ -220,7 +221,6 @@
     "99_テンプレート/デイリーノート.md",
     "Untitled.canvas",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md"
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md"
   ]
 }

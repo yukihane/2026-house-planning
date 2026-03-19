@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_領域/04_住宅ローン/SBIアルヒ.md",
+                "file": "private-notes/10_プロジェクト/03_住宅ローン/01_事前審査.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SBIアルヒ"
+              "title": "01_事前審査"
             }
           }
         ]
@@ -185,11 +185,13 @@
   },
   "active": "ca170d9424e52385",
   "lastOpenFiles": [
-    "20_領域/04_住宅ローン/フラット35_SBIネット証券.md",
-    "20_領域/04_住宅ローン/SBIアルヒ.md",
     "private-notes/01_デイリーノート/2026-03-19.md",
     "private-notes/01_デイリーノート/2026-03-18.md",
     "private-notes/01_デイリーノート/2026-03-17.md",
+    "private-notes/10_プロジェクト/03_住宅ローン/01_事前審査.md",
+    "20_領域/04_住宅ローン/SBIアルヒ.md",
+    "private-notes/10_プロジェクト/03_住宅ローン",
+    "20_領域/04_住宅ローン/フラット35_SBIネット証券.md",
     "private-notes/01_デイリーノート/2026-03-16.md",
     "01_デイリーノート/2026-03-19.md",
     "private-notes/01_デイリーノート",
@@ -217,10 +219,8 @@
     "大和ハウスの耐震性に関する考察｜詳細はこちら.md",
     "10_プロジェクト/01_家づくりスケジュール.md",
     "20_領域/01_震災対応・保証",
-    "private-notes/10_プロジェクト/01_土地/01_土地関連資料リンク.md",
     "private-notes/10_プロジェクト/01_土地",
     "private-notes/10_プロジェクト/02_建築会社相談状況/パナソニックホームズ",
-    "private-notes/10_プロジェクト/02_建築会社相談状況/",
     "Untitled.canvas"
   ]
 }

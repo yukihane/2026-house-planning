@@ -11,10 +11,14 @@
             "id": "83be9291a7e89f9f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "private-notes/10_project/04_layout/openscad_cheatsheet.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "openscad_cheatsheet"
             }
           }
         ]
@@ -181,6 +185,7 @@
   },
   "active": "83be9291a7e89f9f",
   "lastOpenFiles": [
+    "private-notes/10_project/04_layout/openscad_cheatsheet.md",
     "private-notes/10_project/04_layout/abo_site_outline.scad",
     "private-notes/10_project/04_layout",
     "private-notes/10_project/openscad/abo_site_outline.scad",
@@ -199,7 +204,6 @@
     "private-notes/10_project/01_土地",
     "private-notes/10_project/00_家づくりの希望条件.md",
     "private-notes/10_project",
-    "private-notes/openscad/abo_site_outline.scad",
     "private-notes/10_プロジェクト/02_土地と間取りの検討課題.md",
     "private-notes/10_プロジェクト/03_希望条件を見て気にしておくこと.md",
     "private-notes/10_プロジェクト/00_家づくりの希望条件.md",

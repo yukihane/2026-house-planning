@@ -185,6 +185,8 @@
   },
   "active": "83be9291a7e89f9f",
   "lastOpenFiles": [
+    "private-notes/openscad/abo_lot_outline.scad",
+    "private-notes/openscad",
     "openscad/site_footprint_base.scad",
     "openscad",
     "private-notes/10_プロジェクト/01_土地/site_footprint_base.scad",
@@ -219,8 +221,6 @@
     "private-notes/01_デイリーノート",
     "20_領域/04_住宅ローン",
     "20_領域/03_資金計画・諸費用",
-    "20_領域/99_熊本地震調査",
-    "perplexity",
     "Untitled.canvas"
   ]
 }

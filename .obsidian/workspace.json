@@ -11,14 +11,10 @@
             "id": "83be9291a7e89f9f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private-notes/10_プロジェクト/03_住宅ローン/01_事前審査.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "01_事前審査"
+              "title": "New tab"
             }
           }
         ]
@@ -185,13 +181,25 @@
   },
   "active": "83be9291a7e89f9f",
   "lastOpenFiles": [
+    "private-notes/10_project/openscad/abo_site_outline.scad",
+    "private-notes/10_project/openscad",
+    "private-notes/10_プロジェクト/03_住宅ローン/01_事前審査.md",
+    "private-notes/10_project/02_建築会社相談状況/アイ工務店/2026-03-15 アイ工務店-Transcription.md",
+    "private-notes/10_project/02_建築会社相談状況/アイ工務店/2026-03-15 アイ工務店-Summary.md",
+    "private-notes/10_project/03_住宅ローン/01_事前審査.md",
+    "private-notes/10_project/02_建築会社相談状況/パナソニックホームズ",
+    "private-notes/10_project/02_建築会社相談状況/アイ工務店",
+    "private-notes/10_project/01_土地/01_土地関連資料.md",
+    "private-notes/10_project/03_希望条件を見て気にしておくこと.md",
+    "private-notes/10_project/03_住宅ローン",
+    "private-notes/10_project/02_建築会社相談状況",
+    "private-notes/10_project/02_土地と間取りの検討課題.md",
+    "private-notes/10_project/01_土地",
+    "private-notes/10_project/00_家づくりの希望条件.md",
+    "private-notes/10_project",
     "private-notes/openscad/abo_site_outline.scad",
     "private-notes/openscad/abo_lot_outline.scad",
     "private-notes/openscad",
-    "openscad/site_footprint_base.scad",
-    "openscad",
-    "private-notes/10_プロジェクト/01_土地/site_footprint_base.scad",
-    "private-notes/10_プロジェクト/01_土地/02_敷地たたき台.scad",
     "private-notes/10_プロジェクト/02_土地と間取りの検討課題.md",
     "private-notes/10_プロジェクト/03_希望条件を見て気にしておくこと.md",
     "private-notes/10_プロジェクト/00_家づくりの希望条件.md",
@@ -209,18 +217,6 @@
     "20_領域/02_税制優遇・補助金/未来エコ住宅支援事業2026の概要.md",
     "20_領域/02_税制優遇・補助金/主要な税制優遇と補助金制度.md",
     "20_領域/02_税制優遇・補助金/姫路市における太陽光パネル設置に関する政策と補助金.md",
-    "10_プロジェクト/01_家づくりスケジュール.md",
-    "20_領域/03_バリアフリー/高齢者等配慮対策等級の調査.md",
-    "20_領域/03_バリアフリー/バリアフリー設計の基準と検討事項.md",
-    "20_領域/03_バリアフリー/高齢の両親と住む新築でのバリアフリー検討事項.md",
-    "20_領域/02_税制優遇・補助金/長期優良・低炭素住宅の各社対応.md",
-    "20_領域/02_税制優遇・補助金/地域型住宅グリーン化事業の評価と選び方.md",
-    "20_領域/03_バリアフリー",
-    "private-notes/10_プロジェクト/03_住宅ローン/01_事前審査.md",
-    "private-notes/01_デイリーノート/2026-03-19.md",
-    "private-notes/10_プロジェクト/03_住宅ローン",
-    "private-notes/01_デイリーノート",
-    "20_領域/04_住宅ローン",
     "Untitled.canvas"
   ]
 }

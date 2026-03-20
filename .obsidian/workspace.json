@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private-notes/10_project/04_layout/間取り条件.md",
+                "file": "private-notes/10_project/04_layout/間取り要件.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "間取り条件"
+              "title": "間取り要件"
             }
           }
         ]
@@ -187,7 +187,7 @@
   "lastOpenFiles": [
     "private-notes/10_project/04_layout/abo_plan_v1.scad",
     "private-notes/10_project/04_layout/openscad_cheatsheet.md",
-    "private-notes/10_project/04_layout/間取り条件.md",
+    "private-notes/10_project/04_layout/間取り要件.md",
     "private-notes/10_project/04_layout/abo_site_outline.scad",
     "private-notes/10_project/04_layout",
     "private-notes/10_project/openscad/abo_site_outline.scad",
